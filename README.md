@@ -8,7 +8,7 @@ This project is aimed at predicting housing prices based on various features suc
 - Data Preprocessing
 - Machine Learning Model
 - Evaluation
-
+- Usage
 
 ## Dataset
 
@@ -45,6 +45,6 @@ The model's performance metrics are as follows:
 ## Usage
 
 To use this project:
-1. Clone the repository: `git clone [repository_url]`
+1. Clone the repository: `git clone https://github.com/codesanya/housing_price_prediction_model`
 2. Install the required libraries: `pip install -r requirements.txt`
 3. Run the project: `python housing_price_prediction.py`
