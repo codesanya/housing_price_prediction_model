@@ -1,6 +1,6 @@
 # housing_price_prediction_mode
 
-This project is aimed at predicting housing prices based on various features such as construction year, total area, location, and more. We'll use machine learning techniques to build a predictive model for housing prices.
+This project is aimed at predicting housings features such as construction year, total area, location, and more. We'll use machine learning techniques to build a predictive model for housing prices.
 
 ## Table of Contents
 - Dataset
